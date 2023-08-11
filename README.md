@@ -116,7 +116,6 @@ help or help <command> Ex:
 * Place
 * Review
 
-# Authors
-* Seriki Ifeoluwa <ifeoluwaalice75@gmail.com>
+# Author
 * Samuel Chigozie <nzekwesammy@gmail.com>
 ...
